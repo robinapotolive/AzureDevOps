@@ -1,0 +1,16 @@
+F:\Learning\AzureDevOps\SQLDbCreation\SqlServerDbCreation\SqlServerDbCreation\bin\Debug\SqlServerDbCreation.dacpac
+F:\Learning\AzureDevOps\SQLDbCreation\SqlServerDbCreation\SqlServerDbCreation\bin\Debug\SqlServerDbCreation.dll
+F:\Learning\AzureDevOps\SQLDbCreation\SqlServerDbCreation\SqlServerDbCreation\bin\Debug\SqlServerDbCreation.pdb
+F:\Learning\AzureDevOps\SQLDbCreation\SqlServerDbCreation\SqlServerDbCreation\obj\Debug\SqlServerDbCreation.sqlprojAssemblyReference.cache
+F:\Learning\AzureDevOps\SQLDbCreation\SqlServerDbCreation\SqlServerDbCreation\obj\Debug\SqlServerDbCreation.dll
+F:\Learning\AzureDevOps\SQLDbCreation\SqlServerDbCreation\SqlServerDbCreation\obj\Debug\SqlServerDbCreation.pdb
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\bin\Debug\SqlServerDbCreation.dacpac
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\bin\Debug\SqlServerDbCreation.dll
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\bin\Debug\SqlServerDbCreation.pdb
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\obj\Debug\SqlServerDbCreation.sqlprojAssemblyReference.cache
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\obj\Debug\SqlServerDbCreation.dll
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\obj\Debug\SqlServerDbCreation.pdb
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\obj\Debug\Model.xml
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\obj\Debug\refactor.xml
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\obj\Debug\postdeploy.sql
+F:\Learning\AzureDevOpsSql\AzureDevOps\SqlServerDbCreation\obj\Debug\predeploy.sql
